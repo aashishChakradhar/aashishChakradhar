@@ -1,7 +1,15 @@
 <h1 align="center">👋 Hi, I’m Aashish Chakradhar</h1>
 <h2 align="center">📫 How to reach me:<br/>
-<a href = "mailto: ashishchakradhar00@gmail.com">ashishchakradhar00@gmail.com</a>
+<a href = "mailto: ashishchakradhar00@gmail.com">
+  <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="Facebook" height="20" style="vertical-align:top; margin:4px"> ashishchakradhar00@gmail.com
+</a>
 </h2>
+<h2> Find me on:</h2>
+<p>
+  <a href = "https://www.facebook.com/Aashish.Ckdhr"><img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href = "https://www.instagram.com/aashish_chakradhar/"><img src="https://w7.pngwing.com/pngs/477/609/png-transparent-logo-computer-icons-instagram-logo-instagram-logo-miscellaneous-text-trademark-thumbnail.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px"></a>
+<p>
+</p>
 <h2>🧰 Languages and Tools:</h2>
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" height="40" style="vertical-align:top; margin:4px">
