@@ -18,7 +18,7 @@
 <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="django" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishChakradhar">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishChakradhar&layout=compact">
 
 
 
