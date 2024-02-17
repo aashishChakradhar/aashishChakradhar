@@ -34,10 +34,10 @@
 
 <div>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishChakradhar&layout=donut&hide&langs_count=10&theme=chartreuse-dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishChakradhar&layout=donut&hide&langs_count=10&show_icons=false&theme=chartreuse-dark">
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=aashishChakradhar&show_icons&rank_icon=percentile&theme=chartreuse-dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=aashishChakradhar&show_icons=true&rank_icon=github&theme=chartreuse-dark">
   </p>
 </div>
 <!---
