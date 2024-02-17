@@ -34,11 +34,12 @@
 
 <div>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishChakradhar&hide&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishChakradhar&layout=donut&hide&langs_count=10&theme=chartreuse-dark">
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=aashishChakradhar&show_icons&rank_icon=percentile&theme=chartreuse-dark">
   </p>
 </div>
-
-
 <!---
 aashishChakradhar/aashishChakradhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
