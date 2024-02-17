@@ -37,7 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishChakradhar&layout=donut&hide&langs_count=10&show_icons=false&theme=chartreuse-dark">
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=aashishChakradhar&show_icons=true&rank_icon=github&theme=chartreuse-dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=aashishChakradhar&show_icons=true&rank_icon=github&theme=chartreuse-dark&<!---show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage--->">
   </p>
 </div>
 <!---
