@@ -1,46 +1,78 @@
 <div>
-  <h1 align="center">
-    👋 Hi, I’m Aashish Chakradhar
-  </h1>
-  <h2 align="center">
-    📫 How to reach me:<br/>
+  <h1 align="center">Hi 👋, I'm Aashish Chakradhar</h1>
+  <h3 align="center">Growing as a Developer</h3>
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=aashishchakradhar&label=Profile%20views&color=0e75b6&style=flat" alt="aashishchakradhar" />
+  </p>
+  <h2 align='center' > 
+    📫 How to reach me:
     <a href = "mailto: ashishchakradhar00@gmail.com">
-      <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="Facebook" height="20" style="vertical-align:top; margin:4px"> ashishchakradhar00@gmail.com
+      ashishchakradhar00@gmail.com
     </a>
-  </h2>
+  </h2> 
 </div>
 
 <div>
-  <h2> Find me on:</h2>
-  <p>
-    <a href = "https://www.facebook.com/Aashish.Ckdhr"><img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
-    <a href = "https://www.instagram.com/aashish_chakradhar/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" height="40" style="vertical-align:top; margin:4px"></a>
-  </p>
-</div>
-
-<div>
-  <h2>🧰 Languages and Tools:</h2>
-  <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40" style="vertical-align:top; margin:4px">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-    <!---
-      <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="django" height="40" style="vertical-align:top; margin:4px">
-      --->
-    <!--- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="40" style="vertical-align:top; margin:4px"> --->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <h2 align="left">Find me on:</h2>
+  <p align="left">
+    <a href="https://fb.com/aashish chakradhar" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aashish chakradhar" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/aashish_chakradhar" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashish_chakradhar" height="30" width="40" />
+    </a>
+    <a href="https://www.leetcode.com/aashish chakradhar" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashish chakradhar" height="30" width="40" />
+    </a>
+    <a href="https://discord.gg/#3111" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3111" height="30" width="40" />
+    </a>
   </p>
 </div>
 
 <div>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishChakradhar&layout=donut&hide&langs_count=10&show_icons=false&theme=chartreuse-dark">
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=aashishChakradhar&show_icons=true&rank_icon=github&theme=chartreuse-dark&<!---show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage--->">
+  <h2 align="left">🧰 Languages and Tools:</h2>
+  <p align="left">
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+    </a>   
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
   </p>
 </div>
-<!---
-aashishChakradhar/aashishChakradhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishchakradhar&show_icons=true&locale=en&layout=donut&langs_count=10&theme=chartreuse-dark" alt="aashishchakradhar" />
+  </p>
+  <p>
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishchakradhar&show_icons=true&locale=en&theme=chartreuse-dark" alt="aashishchakradhar" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishchakradhar&" alt="aashishchakradhar" />
+  </p>
+</div>
