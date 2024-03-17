@@ -69,7 +69,7 @@
 
 <div>
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishchakradhar&show_icons=true&locale=en&layout=donut&langs_count=10&theme=chartreuse-dark" alt="aashishchakradhar" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishchakradhar&show_icons=true&locale=en&langs_count=10&theme=chartreuse-dark" alt="aashishchakradhar" />
   </p>
   <p>
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishchakradhar&show_icons=true&locale=en&theme=chartreuse-dark" alt="aashishchakradhar" />
