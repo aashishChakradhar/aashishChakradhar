@@ -1,9 +1,11 @@
 <div>
   <h1 align="center">Hi 👋, I'm Aashish Chakradhar</h1>
   <h3 align="center">Growing as a Developer</h3>
+  <!--
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=aashishchakradhar&label=Profile%20views&color=0e75b6&style=flat" alt="aashishchakradhar" />
   </p>
+    -->
   <h2 align='center' > 
     📫 How to reach me:
     <a href = "mailto: ashishchakradhar00@gmail.com">
