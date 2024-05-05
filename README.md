@@ -8,8 +8,13 @@
     -->
   <h2 align='center' > 
     📫 How to reach me:
+    <br>
     <a href = "mailto: ashishchakradhar00@gmail.com">
       ashishchakradhar00@gmail.com
+    </a>
+    <br><t>
+    <a href = "mailto: ashishchakradhar01@gmail.com">
+            ashishchakradhar01@gmail.com
     </a>
   </h2> 
 </div>
