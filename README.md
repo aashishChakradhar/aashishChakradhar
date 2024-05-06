@@ -23,7 +23,7 @@
     <a href="https://instagram.com/aashish_chakradhar" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashish_chakradhar" height="30" width="40" />
     </a>
-    <a href="https://www.leetcode.com/aashish chakradhar" target="blank">
+    <a href="https://leetcode.com/u/ashishchakradhar00/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashish chakradhar" height="30" width="40" />
     </a>
     <a href="https://discord.gg/#3111" target="blank">
