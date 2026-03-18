@@ -58,13 +58,9 @@
     </a>
   </p>
   <p>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a>
-    
       <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
         <img src="https://imgs.search.brave.com/2ZTh5-7i6kL1iPuI2MVM9uP5NftcXs7-Vu_1J-_qZfg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVjdG9ybG9nby56/b25lL2xvZ29zL2Rv/dG5ldC9kb3RuZXQt/dGlsZS5zdmc" alt="dotnet" width="40" height="40"/> 
       </a>
-    
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
@@ -75,6 +71,14 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     </a>
   </p>
+  <p>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+      <img src="https://imgs.search.brave.com/60rV0Keugghen4UoTpA7gnGy897m_sIHzchRGRaj58c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3RhaWx3/aW5kLWNzczMyMzIu/bG9nb3dpay5jb20u/d2VicA" alt="tailwind css" width="40" height="40"/>
+    </a>
+    <p>
   <p>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
