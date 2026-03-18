@@ -60,11 +60,11 @@
   <p>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a>
-    <!---
-      <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+    
+      <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
+        <img src="https://imgs.search.brave.com/2ZTh5-7i6kL1iPuI2MVM9uP5NftcXs7-Vu_1J-_qZfg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVjdG9ybG9nby56/b25lL2xvZ29zL2Rv/dG5ldC9kb3RuZXQt/dGlsZS5zdmc" alt="dotnet" width="40" height="40"/> 
       </a>
-    --->
+    
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
